@@ -1,0 +1,40 @@
+Privacy Policy for https://cicrancranci.ro
+
+Last updated: 20.02.2024
+
+Introduction:
+Welcome to https://cicrancranci.ro. This privacy policy explains how we collect, use, and protect your personal information when you visit our website.
+
+Data Collection:
+We collect the following types of information when you visit our website:
+- Basic Tracking Data: This includes page views, clicks, browser type and version, and time spent on pages. This data is collected immediately upon visiting our website to understand visitor interactions and improve user experience.
+- Geolocation Data: Upon your consent to our cookie policy, we collect geolocation data such as the country and city associated with your IP address. This helps us understand the geographic distribution of our visitors and improve our services.
+- Information collected through cookies and our web analytics tools (subject to your consent).
+
+Purpose of Data Collection:
+The data we collect is used to analyze website usage, enhance our website's functionality, and improve the user experience. We do not use this data for any other purpose.
+
+Data Use:
+The information collected is used for website traffic analysis and to enhance our website's functionality. We do not share your personal information with third parties, except as required for website traffic analysis or if required by law.
+
+Data Protection and Security:
+We are committed to protecting your data and use secure servers and data encryption to safeguard your information.
+
+User Rights:
+Under GDPR, you have the right to access, correct, or delete your personal information. To exercise these rights, please contact us at cicrancranci@gmail.com.
+
+Cookies and Tracking Technologies:
+Our website uses cookies and similar tracking technologies. Basic tracking begins immediately upon visiting our website. Advanced tracking, which includes geolocation data, is activated only after you consent to our cookie policy. You can manage your preferences or withdraw consent at any time by contacting us at cicrancranci@gmail.com. For more information, please refer to our Cookies Policy [link to Cookies Policy if available].
+
+Consent and Changes to the Policy:
+By using our website, you consent to the collection and use of your information as described in this policy, including immediate basic tracking. We reserve the right to make changes to this privacy policy at any time. Any changes will be posted on this page and communicated through our website.
+
+Data Retention:
+We retain collected data for a period of 24 months, after which it is securely deleted.
+
+Cross-Border Data Transfer:
+We do not transfer data outside the European Union.
+
+Contact Information:
+For any questions or concerns about our privacy policy, or to exercise your data rights, please contact us at cicrancranci@gmail.com.
+
